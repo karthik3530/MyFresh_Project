@@ -1,3 +1,4 @@
 Welcome to My App V1.0
 Header section added
 Fixed typo in Header
+added footer feature
